@@ -15,4 +15,4 @@ Education
 
 Project
 ======
-**Streaming rPPG model deployment** at [https://github.com/Health-HCI-Group/ME-rPPG-demo](https://github.com/Health-HCI-Group/ME-rPPG-demo)
+**Streaming rPPG model deployment** at [https://health-hci-group.github.io/ME-rPPG-demo/](https://health-hci-group.github.io/ME-rPPG-demo/)
